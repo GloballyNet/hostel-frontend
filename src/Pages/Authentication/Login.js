@@ -3,7 +3,7 @@ export const Login = () => {
   return (
     <main className='w-[100%] block'>
         <NavBar/>
-        <SetPassword/>
+        <EmailComp/>
     </main>
   )
 }
