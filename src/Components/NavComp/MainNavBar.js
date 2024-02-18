@@ -13,11 +13,7 @@ export const MainNavBar = () => {
                 <Link className="bg-white w-[70px] rounded-[3px] text-sm text-blue-600 hover:bg-blue-50 font-[600] py-[3%] text-center" to="/signup">Sign in</Link>
             </div>
         </nav>
-<<<<<<< HEAD
         <div className="flex items-center gap-[7px]">
-=======
-        <div className="flex items-center gap-[7px] mb-[5%]">
->>>>>>> 71157447c66431ef6943619fa8395a7e38e21613
             <Link to="/" className="flex items-center gap-[5px] border-[1px] rounded-full py-[8px] px-[15px] text-[14px] text-white bg-white/5"><span class="material-symbols-outlined">bed</span>Stays</Link>
             <Link to="/" className="flex items-center gap-[5px] border-[0px] rounded-full py-[8px] px-[15px] text-[14px] text-white hover:bg-white/10"><span class="material-symbols-outlined">house</span>Rentals</Link>  
         </div>
